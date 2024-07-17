@@ -1,2 +1,2 @@
 # videoTransition
- Open Frameworks App for video transition effects
+ Testing Open Frameworks for rotating video transition effect
